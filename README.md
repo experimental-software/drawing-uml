@@ -1,6 +1,6 @@
 # Drawing UML
 
-Shapes for the creation of UML diagram with Draw.IO
+Libraries for the creation of UML diagrams with [Draw.IO](https://app.diagrams.net).
 
 ## References
 
