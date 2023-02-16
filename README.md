@@ -1,6 +1,6 @@
 # Drawing UML
 
-This repository contains custom shape libraries for the creation of UML diagrams with [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net).
+This repository contains custom shape libraries for the creation of [UML diagrams](https://www.uml-diagrams.org) with [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net).
 
 ## Usage
 
@@ -22,8 +22,30 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 See [Work with custom shape libraries | drawio.freshdesk.com](https://drawio.freshdesk.com/support/solutions/articles/16000067790-work-with-custom-shape-libraries) for further details.
 
-## References
+## State diagram
 
-- [UML Website](https://www.uml.org) 
-- [UML Specification](https://www.omg.org/spec/UML) 
-- [UML Tutorials | uml-diagrams.org](https://www.uml-diagrams.org) 
+TBD
+
+## Component diagram
+
+TBD
+
+## Deployment diagram
+
+TBD
+
+## Sequence diagram
+
+TBD
+
+## Class diagram
+
+TBD
+
+## Behavior diagram
+
+TBD
+
+## Activity diagram
+
+TBD
