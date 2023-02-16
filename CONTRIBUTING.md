@@ -1,0 +1,1 @@
+If you experience a problem or have a suggestion for improvement, please [create a GitHub issue](https://github.com/experimental-software/drawing-uml/issues/new). Pull requests will probably be rejected.
