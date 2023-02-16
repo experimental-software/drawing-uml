@@ -1,6 +1,6 @@
 # Drawing UML
 
-Libraries for the creation of UML diagrams with [Draw.IO](https://app.diagrams.net).
+This repository contains custom shape libraries for the creation of UML diagrams with the graph drawing software [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) https://en.wikipedia.org/wiki/Diagrams.net (aka. Draw.IO).
 
 ## Usage
 
@@ -11,6 +11,8 @@ git clone https://github.com/experimental-software/drawing-uml.git
 1. Open https://app.diagrams.net/
 2. Create new diagram
 3. File > Open library from > Device
+
+See [Work with custom shape libraries | drawio.freshdesk.com](https://drawio.freshdesk.com/support/solutions/articles/16000067790-work-with-custom-shape-libraries) for details.
 
 ## Cheat sheets
 
