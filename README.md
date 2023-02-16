@@ -22,30 +22,32 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 See [Work with custom shape libraries | drawio.freshdesk.com](https://drawio.freshdesk.com/support/solutions/articles/16000067790-work-with-custom-shape-libraries) for further details.
 
-## State diagram
+## Libraries
+
+### State diagram
 
 TBD
 
-## Component diagram
+### Component diagram
 
 TBD
 
-## Deployment diagram
+### Deployment diagram
 
 TBD
 
-## Sequence diagram
+### Sequence diagram
 
 TBD
 
-## Class diagram
+### Class diagram
 
 TBD
 
-## Behavior diagram
+### Behavior diagram
 
 TBD
 
-## Activity diagram
+### Activity diagram
 
 TBD
