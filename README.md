@@ -16,7 +16,7 @@ The app can be opened directly in the browser at https://app.diagrams.net or aft
 
 (3) Create new diagram
 
-(4) Import the a library
+(4) Import a library
 
 The libraries from this repository can be imported via the menu entry "File > Open library from > Device".
 
