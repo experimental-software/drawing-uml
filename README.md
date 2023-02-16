@@ -1,6 +1,6 @@
 # Drawing UML
 
-This repository contains custom shape libraries for the creation of UML diagrams with the graph drawing software [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) (aka. Draw.IO).
+This repository contains custom shape libraries for the creation of UML diagrams with the drawing software [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net).
 
 ## Usage
 
