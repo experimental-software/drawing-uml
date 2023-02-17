@@ -16,6 +16,7 @@ git clone https://github.com/experimental-software/drawing-uml.git
 # (c) Download ZIP archive via cURL
 curl https://codeload.github.com/experimental-software/drawing-uml/zip/refs/heads/main \
   --output drawing-uml.zip
+unzip drawing-uml.zip -d .
 ```
 
 ### (2) Open the app
