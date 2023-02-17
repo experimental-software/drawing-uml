@@ -14,7 +14,7 @@ git clone git@github.com:experimental-software/drawing-uml.git
 git clone https://github.com/experimental-software/drawing-uml.git
 
 # Download as ZIP archive
-curl https://github.com/experimental-software/drawing-uml/archive/refs/heads/master.zip \
+curl https://codeload.github.com/experimental-software/drawing-uml/zip/refs/heads/master \
   --output drawing-uml.zip
 ```
 
