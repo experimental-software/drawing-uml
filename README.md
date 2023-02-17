@@ -33,7 +33,7 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ### State Machines
 
-[![Custom library URL](https://img.shields.io/badge/stm-library-lightgrey.svg)][stm-library]
+[![Custom library URL](https://img.shields.io/badge/stm-library_url-blueviolet.svg)][stm-library]
 [![UML diagram syntax](https://img.shields.io/badge/stm-syntax-lightgrey.svg)][stm-syntax]
 
 [stm-library]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML%20-%20State%20Machines.xml
