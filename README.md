@@ -7,13 +7,13 @@ This repository contains custom shape libraries for the creation of [UML diagram
 ### (1) Download the custom shape libraries
 
 ```bash
-# Git clone via SSH
+# (a) Download with git clone via SSH
 git clone git@github.com:experimental-software/drawing-uml.git
 
-# Git clone via HTTPS URL
+# (b) Download with git clone via HTTPS
 git clone https://github.com/experimental-software/drawing-uml.git
 
-# Download as ZIP archive
+# (c) Download ZIP archive via cURL
 curl https://codeload.github.com/experimental-software/drawing-uml/zip/refs/heads/main \
   --output drawing-uml.zip
 ```
