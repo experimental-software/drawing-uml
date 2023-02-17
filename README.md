@@ -6,8 +6,16 @@ This repository contains custom shape libraries for the creation of [UML diagram
 
 (1) Download the custom shape libraries
 
-```
+```bash
+# Git clone via SSH
+git clone git@github.com:experimental-software/drawing-uml.git
+
+# Git clone via HTTPS URL
 git clone https://github.com/experimental-software/drawing-uml.git
+
+# Download as ZIP archive
+curl https://github.com/experimental-software/drawing-uml/archive/refs/heads/master.zip \
+  --output drawing-uml.zip
 ```
 
 (2) Open the app
@@ -51,3 +59,8 @@ TBD
 ### Activity diagram
 
 TBD
+
+## References
+
+- [UML Specification](https://www.omg.org/spec/UML/)
+- [draw.io YouTube channel](https://www.youtube.com/@drawioapp)
