@@ -4,7 +4,7 @@ This repository contains custom shape libraries for the creation of [UML diagram
 
 ## Usage
 
-(1) Download the custom shape libraries
+### (1) Download the custom shape libraries
 
 ```bash
 # Git clone via SSH
@@ -18,13 +18,13 @@ curl https://codeload.github.com/experimental-software/drawing-uml/zip/refs/head
   --output drawing-uml.zip
 ```
 
-(2) Open the app
+### (2) Open the app
 
 The app can be opened directly in the browser at [app.diagrams.net](https://app.diagrams.net) or after downloading it from the [drawio-desktop GitHub releases](https://github.com/jgraph/drawio-desktop/releases/latest).
 
-(3) Create new diagram
+### (3) Create new diagram
 
-(4) Import a library
+### (4) Import a library
 
 The libraries from this repository can be imported via the menu entry "File > Open library from > Device".
 
