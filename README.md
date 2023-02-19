@@ -4,27 +4,28 @@ This repository contains custom shape libraries for the creation of [UML diagram
 
 ## Usage
 
-(1) Download the custom shape libraries
+### (1) Download the custom shape libraries
 
 ```bash
-# Git clone via SSH
+# (a) Download with git clone via SSH
 git clone git@github.com:experimental-software/drawing-uml.git
 
-# Git clone via HTTPS URL
+# (b) Download with git clone via HTTPS
 git clone https://github.com/experimental-software/drawing-uml.git
 
-# Download as ZIP archive
+# (c) Download ZIP archive via cURL
 curl https://codeload.github.com/experimental-software/drawing-uml/zip/refs/heads/main \
   --output drawing-uml.zip
+unzip drawing-uml.zip -d .
 ```
 
-(2) Open the app
+### (2) Open the app
 
 The app can be opened directly in the browser at [app.diagrams.net](https://app.diagrams.net) or after downloading it from the [drawio-desktop GitHub releases](https://github.com/jgraph/drawio-desktop/releases/latest).
 
-(3) Create new diagram
+### (3) Create new diagram
 
-(4) Import a library
+### (4) Import a library
 
 The libraries from this repository can be imported via the menu entry "File > Open library from > Device".
 
@@ -32,7 +33,7 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ### State Machines
 
-[![Custom library URL](https://img.shields.io/badge/stm-library-lightgrey.svg)][stm-library]
+[![Custom library URL](https://img.shields.io/badge/stm-library_url-blueviolet.svg)][stm-library]
 [![UML diagram syntax](https://img.shields.io/badge/stm-syntax-lightgrey.svg)][stm-syntax]
 
 [stm-library]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML%20-%20State%20Machines.xml
