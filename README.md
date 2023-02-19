@@ -6,6 +6,8 @@ This repository contains custom shape libraries for the creation of [UML diagram
 
 ### (1) Download the custom shape libraries
 
+The custom shape libraries can be downloaded manually by clicking on [this link](https://github.com/experimental-software/drawing-uml/archive/refs/heads/main.zip) or from the terminal with either of these commands:
+
 ```bash
 # (a) Download with git clone via SSH
 git clone git@github.com:experimental-software/drawing-uml.git
