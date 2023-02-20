@@ -37,6 +37,8 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 [![UML diagram syntax](https://img.shields.io/badge/stm-syntax-lightgrey.svg)](https://www.uml-diagrams.org/state-machine-diagrams.html)
 
+![diagram: state machine diagram overview](./docs/state-machine-diagram-overview.png)
+
 ### Object Diagram
 
 [![UML diagram syntax](https://img.shields.io/badge/object_diagram-syntax-lightgrey.svg)](https://www.uml-diagrams.org/class-diagrams-overview.html#object-diagram)
