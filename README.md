@@ -31,7 +31,7 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ## Libraries
 
-### State Machines
+### State Machine Diagram
 
 [![Custom library URL](https://img.shields.io/badge/stm-library_url-blueviolet.svg)][stm-library]
 [![UML diagram syntax](https://img.shields.io/badge/stm-syntax-lightgrey.svg)][stm-syntax]
@@ -40,6 +40,16 @@ The libraries from this repository can be imported via the menu entry "File > Op
 [stm-syntax]: https://www.uml-diagrams.org/state-machine-diagrams.html
 
 ![diagram: state-machines-reference.drawio](./docs/state-machines-reference.drawio.png)
+
+### Object Diagram
+
+[![Custom library URL](https://img.shields.io/badge/object_diagram-library_url-blueviolet.svg)][object_diagram-library]
+[![UML diagram syntax](https://img.shields.io/badge/object_diagram-syntax-lightgrey.svg)][object_diagram-syntax]
+
+[object_diagram-library]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML%20-%20Object%20Diagram.xml
+[object_diagram-syntax]: https://www.uml-diagrams.org/class-diagrams-overview.html#object-diagram
+
+![diagram: object diagram overview](./docs/object-diagram-overview.png)
 
 ## References
 
