@@ -33,23 +33,21 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ## Libraries
 
+### Communication Diagram
+
+![communication diagram overview](./docs/communication-diagram-overview.png)
+
 ### State Machine Diagram
 
-[![UML diagram syntax](https://img.shields.io/badge/uml-syntax-lightgrey.svg)](https://www.uml-diagrams.org/state-machine-diagrams.html)
-
-![diagram: state machine diagram overview](./docs/state-machine-diagram-overview.png)
+![state machine diagram overview](./docs/state-machine-diagram-overview.png)
 
 ### Component Diagram
 
-[![UML diagram syntax](https://img.shields.io/badge/component_diagram-syntax-lightgrey.svg)](https://www.uml-diagrams.org/component-diagrams.html)
-
-![diagram: component diagram overview](./docs/component-diagram-overview.png)
+![component diagram overview](./docs/component-diagram-overview.png)
 
 ### Object Diagram
 
-[![UML diagram syntax](https://img.shields.io/badge/object_diagram-syntax-lightgrey.svg)](https://www.uml-diagrams.org/class-diagrams-overview.html#object-diagram)
-
-![diagram: object diagram overview](./docs/object-diagram-overview.png)
+![object diagram overview](./docs/object-diagram-overview.png)
 
 ## References
 
