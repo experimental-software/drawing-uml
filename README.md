@@ -39,6 +39,8 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ### State Machine Diagram
 
+[raw library url](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML%20-%20State%20Machine%20Diagram.xml)
+
 ![state machine diagram overview](./docs/state-machine-diagram-overview.png)
 
 ### Component Diagram
