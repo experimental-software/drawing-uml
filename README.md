@@ -2,6 +2,10 @@
 
 This repository contains custom shape libraries for the creation of [UML diagrams](https://www.uml-diagrams.org) with [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net).
 
+## Quickstart
+
+https://user-images.githubusercontent.com/5235584/223810663-b40a00d9-c53f-432f-8ac1-eaccd9d1d9c2.mp4
+
 ## Usage
 
 ### (1) Download the custom shape libraries
@@ -38,6 +42,8 @@ The libraries from this repository can be imported via the menu entry "File > Op
 ![communication diagram overview](./docs/communication-diagram-overview.png)
 
 ### State Machine Diagram
+
+[raw library url](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML%20-%20State%20Machine%20Diagram.xml)
 
 ![state machine diagram overview](./docs/state-machine-diagram-overview.png)
 
