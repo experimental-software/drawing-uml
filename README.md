@@ -55,6 +55,15 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ![object diagram overview](./docs/object-diagram-overview.png)
 
+### Sequence Diagram
+
+[raw library url][sequence-diagram-raw-library-url] • [UML syntax][sequence-diagram-uml-syntax]
+
+[sequence-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_SequenceDiagram.xml
+[sequence-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/Sequence.html
+
+![Sequence diagram overview](./docs/sequence-diagram-overview.png)
+
 ## References
 
 - [UML Specification | omg.org](https://www.omg.org/spec/UML/)
