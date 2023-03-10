@@ -44,8 +44,6 @@ The libraries from this repository can be imported via the menu entry "File > Op
 [state-machine-diagram-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_StateMachineDiagram.xml
 [state-machine-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/State.html
 
-[raw library url](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML%20-%20State%20Machine%20Diagram.xml)
-
 ![state machine diagram overview](./docs/state-machine-diagram-overview.png)
 
 ### Communication Diagram
