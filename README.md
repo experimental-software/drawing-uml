@@ -48,24 +48,88 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ### Communication Diagram
 
+[Library URL][communication-diagram-library-url] • [UML syntax][communication-uml-syntax]
+
+[communication-diagram-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_CommunicationDiagram.xml
+[communication-uml-syntax]: https://www.uml-diagrams.org/communication-diagrams.html
+
 ![communication diagram overview](./docs/communication-diagram-overview.png)
 
 ### Component Diagram
+
+[Library URL][component-diagram-library-url] • [UML syntax][component-uml-syntax]
+
+[component-diagram-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ComponentDiagram.xml
+[component-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/Component.html
 
 ![component diagram overview](./docs/component-diagram-overview.png)
 
 ### Object Diagram
 
+[Library URL][object-diagram-library-url] • [UML syntax][object-uml-syntax]
+
+[objecte-diagram-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ObjectDiagram.xml
+[objecte-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/Object.html
+
 ![object diagram overview](./docs/object-diagram-overview.png)
 
 ### Sequence Diagram
 
-[Library URL][sequence-diagram-raw-library-url] • [UML syntax][sequence-diagram-uml-syntax]
+[Library URL][sequence-diagram-library-url] • [UML syntax][sequence-diagram-uml-syntax]
 
-[sequence-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_SequenceDiagram.xml
+[sequence-diagram-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_SequenceDiagram.xml
 [sequence-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/Sequence.html
 
 ![Sequence diagram overview](./docs/sequence-diagram-overview.png)
+
+### Deployment Diagram
+
+[Library URL][deployment-diagram-library-url] • [UML syntax][deployment-diagram-uml-syntax]
+
+[deployment-diagram-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_DeploymentDiagram.xml
+[deployment-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/Deployment.html
+
+### Package Diagram
+
+[Library URL][package-diagram-raw-library-url] • [UML syntax][package-diagram-uml-syntax]
+
+[package-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_PackageDiagram.xml
+[sequpackageence-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/Package.html
+
+### Class Diagram
+
+[Library URL][class-diagram-raw-library-url] • [UML syntax][class-diagram-uml-syntax]
+
+[class-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ClassDiagram.xml
+[class-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/Class.html
+
+### Composite Structure Diagram
+
+[Library URL][composite-structure-diagram-raw-library-url] • [UML syntax][composite-structure-diagram-uml-syntax]
+
+[composite-structure-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_CompositeStructureDiagram.xml
+[composite-structure-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/CompositeStructureDiagram.html
+
+### Interaction Overview Diagram
+
+[Library URL][interaction-overview-diagram-raw-library-url] • [UML syntax][interaction-overview-diagram-uml-syntax]
+
+[interaction-overview-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_InteractionOverviewDiagram.xml
+[interaction-overview-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/InteractionOverviewDiagram.html
+
+### Timing Diagram
+
+[Library URL][timing-diagram-raw-library-url] • [UML syntax][timing-diagram-uml-syntax]
+
+[timing-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_TimingDiagram.xml
+[timing-diagram-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/TimingDiagram.html
+
+### Profile Diagram
+
+[Library URL][profile-diagram-raw-library-url] • [UML syntax][profile-diagram-uml-syntax]
+
+[profile-diagram-raw-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ProfileDiagram.xml
+[profile-diagram-uml-syntax]: https://www.uml-diagrams.org/profile-diagrams.html
 
 ## References
 
