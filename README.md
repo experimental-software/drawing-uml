@@ -39,7 +39,8 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ### State Machine Diagram
 
-[Library URL][state-machine-diagram-library-url] • [UML syntax][state-machine-uml-syntax]
+[Library URL][state-machine-diagram-library-url]
+• [UML syntax][state-machine-uml-syntax]
 
 [state-machine-diagram-library-url]: https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_StateMachineDiagram.xml
 [state-machine-uml-syntax]: https://www.visual-paradigm.com/VPGallery/diagrams/State.html
