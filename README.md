@@ -112,6 +112,8 @@ The libraries from this repository can be imported via the menu entry "File > Op
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ProfileDiagram.xml)
 • [UML syntax](https://www.uml-diagrams.org/profile-diagrams.html)
 
+![profile diagram overview](./docs/profile-diagram-overview.png)
+
 ## References
 
 - [UML Specification | omg.org](https://www.omg.org/spec/UML/)
