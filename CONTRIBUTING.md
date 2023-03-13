@@ -1,1 +1,1 @@
-If you see a problem or have a suggestion for an improvement, please [create a GitHub issue](https://github.com/experimental-software/drawing-uml/issues/new).
+If you find a shape that doesn't comply with the UML specification or you have a general suggestion for an improvement of the library collection, please [create a GitHub issue](https://github.com/experimental-software/drawing-uml/issues/new).
