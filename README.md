@@ -37,6 +37,11 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ## Libraries
 
+### Use Case Diagram
+
+[Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_UseCaseDiagram.xml)
+• [UML syntax](https://www.visual-paradigm.com/VPGallery/diagrams/UseCase.html)
+
 ### State Machine Diagram
 
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_StateMachineDiagram.xml)
