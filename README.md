@@ -47,35 +47,25 @@ The libraries from this repository can be imported via the menu entry "File > Op
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_StateMachineDiagram.xml)
 • [UML syntax](https://www.visual-paradigm.com/VPGallery/diagrams/State.html)
 
-![state machine diagram overview](./docs/state-machine-diagram-overview.png)
-
 ### Communication Diagram
 
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_CommunicationDiagram.xml)
 • [UML syntax](https://www.uml-diagrams.org/communication-diagrams.html)
-
-![communication diagram overview](./docs/communication-diagram-overview.png)
 
 ### Component Diagram
 
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ComponentDiagram.xml)
 • [UML syntax](https://www.visual-paradigm.com/VPGallery/diagrams/Component.html)
 
-![component diagram overview](./docs/component-diagram-overview.png)
-
 ### Object Diagram
 
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ObjectDiagram.xml)
 • [UML syntax](https://www.visual-paradigm.com/VPGallery/diagrams/Object.html)
 
-![object diagram overview](./docs/object-diagram-overview.png)
-
 ### Sequence Diagram
 
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_SequenceDiagram.xml)
 • [UML syntax](https://www.visual-paradigm.com/VPGallery/diagrams/Sequence.html)
-
-![Sequence diagram overview](./docs/sequence-diagram-overview.png)
 
 ### Deployment Diagram
 
@@ -111,8 +101,6 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 [Library URL](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/UML_ProfileDiagram.xml)
 • [UML syntax](https://www.uml-diagrams.org/profile-diagrams.html)
-
-![profile diagram overview](./docs/profile-diagram-overview.png)
 
 ## References
 
