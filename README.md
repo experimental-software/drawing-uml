@@ -1,6 +1,6 @@
 # Drawing UML
 
-> custom shape libraries for draw.io
+> custom shape libraries for draw.io for the creation of UML diagrams
 
 ## Context
 
