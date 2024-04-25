@@ -1,14 +1,19 @@
 # Drawing UML
 
-> Custom shape libraries for draw.io
+> custom shape libraries for draw.io
 
 ## Context
 
-UML diagrams can help to design and discuss complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) (fka. draw.io) is a general-purpose drawing application that contains a few shapes with which UML diagrams can be painted. This repository contains a collection of custom shape libraries with a customized set of shapes.
+UML diagrams can help to design and discuss complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of custom shape libraries with a customized set of shapes.
 
 ## Quickstart
 
-The simplest way to use the custom shape libraries from this repository is to copy one of the links below to the clipboard, then visit the website [app.diagrams.net](https://app.diagrams.net), click the "Decide later" button, and then import the library via the menu entry "File > Open Library from > URL...".
+The simplest way to use the custom shape libraries from this repository is to copy one of the links below to the clipboard, then visit the website [app.diagrams.net](https://app.diagrams.net), click the "Decide later" button, and import the library via the menu entry "File > Open Library from > URL...".
+
+[Component Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-ComponentDiagram.xml) |
+[Deployment Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-DeploymentDiagram.xml) | 
+[State Machine Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-StateMachineDiagram.xml) |
+[Use Case Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-UseCaseDiagram.xml)
 
 Those steps are shown in the video below:
 
@@ -24,7 +29,6 @@ The custom shape libraries can be downloaded by clicking on [this link](https://
 
 <details open>
   <summary>Download with git clone via SSH</summary>
-  
   ```bash
   git clone git@github.com:experimental-software/drawing-uml.git
   ```
@@ -60,8 +64,9 @@ The libraries from this repository can be imported via the menu entry "File > Op
 
 ## Alternative projects
 
-- [Visio Stencil and Template for UML 2.5](http://softwarestencils.com/uml/index.html)
+- [PlantUML](https://plantuml.com/en/)
 - [Visual Paradigm](https://www.visual-paradigm.com/)
+- [Visio Stencil and Template for UML 2.5](http://softwarestencils.com/uml/index.html)
 
 ## References
 
