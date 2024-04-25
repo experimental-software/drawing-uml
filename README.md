@@ -15,8 +15,6 @@ The simplest way to use the custom shape libraries from this repository is to co
 [Deployment Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-DeploymentDiagram.xml) • 
 [State Machine Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-StateMachineDiagram.xml)
 
-Those steps are shown in the video below:
-
 https://user-images.githubusercontent.com/5235584/223810663-b40a00d9-c53f-432f-8ac1-eaccd9d1d9c2.mp4
 
 ## Usage
