@@ -4,7 +4,7 @@
 
 ## Context
 
-UML diagrams can help to design and discuss complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of custom shape libraries with a customized set of shapes.
+UML diagrams can help to design and discuss complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a simple and free general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of custom shape libraries with a customized set of shapes.
 
 ## Quickstart
 
@@ -29,6 +29,7 @@ The custom shape libraries can be downloaded by clicking on [this link](https://
 
 <details open>
   <summary>Download with git clone via SSH</summary>
+  
   ```bash
   git clone git@github.com:experimental-software/drawing-uml.git
   ```
