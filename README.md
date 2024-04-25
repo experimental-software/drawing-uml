@@ -27,7 +27,7 @@ The Diagrams.net app can also be downloaded and installed as a desktop app: [dra
 
 The custom shape libraries can be downloaded by clicking on [this link](https://github.com/experimental-software/drawing-uml/archive/refs/heads/main.zip) or by executing either of these Shell commands in the terminal:
 
-<details open>
+<details>
   <summary>Download with git clone via SSH</summary>
   
   ```bash
@@ -35,7 +35,7 @@ The custom shape libraries can be downloaded by clicking on [this link](https://
   ```
 </details>
 
-<details open>
+<details>
   <summary>Download with git clone via HTTPS</summary>
   
   ```bash
@@ -43,7 +43,7 @@ The custom shape libraries can be downloaded by clicking on [this link](https://
   ```
 </details>
 
-<details open>
+<details>
   <summary> Download ZIP archive via cURL</summary>
   
   ```bash
