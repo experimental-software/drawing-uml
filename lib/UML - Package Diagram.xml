@@ -1,0 +1,64 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;pkg&amp;lt;/b&amp;gt;&amp;amp;nbsp;Foo\" style=\"shape=umlFrame;whiteSpace=wrap;html=1;width=234;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeWidth=1;container=1;recursiveResize=0;collapsible=0;swimlaneFillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"396\" height=\"223\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 396,
+    "h": 223,
+    "aspect": "fixed",
+    "title": "Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;package&amp;lt;/b&amp;gt;&amp;amp;nbsp;Foo\" style=\"shape=umlFrame;whiteSpace=wrap;html=1;width=234;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeWidth=1;container=1;recursiveResize=0;collapsible=0;swimlaneFillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"396\" height=\"223\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 396,
+    "h": 223,
+    "aspect": "fixed",
+    "title": "Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=folder;fontStyle=1;tabWidth=40;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;align=left;spacingTop=0;spacingLeft=7;shadow=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"130\" height=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;fontStyle=1;fontSize=14;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"530\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Foo\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;spacingTop=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"30\" width=\"130\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 130,
+    "h": 100,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=folder;fontStyle=0;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;shadow=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;fontStyle=1;fontSize=14;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"120\" height=\"47.89473684210526\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"30\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Foo\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"36\" y=\"33.68421052631579\" width=\"50\" height=\"20.63157894736842\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 77.8947368421052,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;div&amp;gt;Foo&amp;lt;/div&amp;gt;\" style=\"shape=folder;fontStyle=1;tabWidth=140;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;align=left;spacingTop=0;spacingLeft=7;shadow=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"300\" height=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;fontStyle=1;fontSize=14;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"530\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 300,
+    "h": 200,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;div&amp;gt;lorem&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;ipsum&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" style=\"shape=folder;fontStyle=0;tabWidth=60;tabHeight=40;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;shadow=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"165\" height=\"95\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"Foo\" style=\"html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;fontStyle=1;fontSize=14;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"165\" height=\"70.21739130434783\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"30\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 165,
+    "h": 95,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;dashed=1;jumpStyle=line;jumpSize=5;endFill=0;fontSize=14;endSize=10;startSize=10;curved=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"42.000000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 42.00000000000024,
+    "h": 49.99999999999999,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;rounded=0;dashed=1;jumpStyle=line;jumpSize=5;endFill=0;fontSize=14;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"42.000000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"«foo»\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.1\" y=\"-1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-27\" y=\"-11\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 42.000000000000455,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=blockThin;html=1;rounded=0;dashed=1;fontSize=14;endFill=1;strokeWidth=2;dashPattern=1 4;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"70\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"57.83254371789121\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=7 8;fontSize=14;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"70\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"57.83254371789121\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 57.83254371789114,
+    "h": 70.00000000000009,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;rounded=0;dashed=1;jumpStyle=line;jumpSize=5;endFill=0;fontSize=14;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"42.000000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"«use»\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.1\" y=\"-1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-27\" y=\"-11\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 42.000000000000455,
+    "h": 50,
+    "aspect": "fixed"
+  }
+]</mxlibrary>

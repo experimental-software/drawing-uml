@@ -1,0 +1,65 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;deployment&amp;lt;/b&amp;gt;&amp;amp;nbsp;Foo\" style=\"shape=umlFrame;whiteSpace=wrap;html=1;width=234;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeWidth=1;container=1;recursiveResize=0;collapsible=0;swimlaneFillColor=default;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"396\" height=\"223\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 396,
+    "h": 223,
+    "aspect": "fixed",
+    "title": "Frame"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;b&amp;gt;dep&amp;lt;/b&amp;gt;&amp;amp;nbsp;Foo\" style=\"shape=umlFrame;whiteSpace=wrap;html=1;width=234;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeWidth=1;container=1;recursiveResize=0;collapsible=0;swimlaneFillColor=default;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"396\" height=\"223\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 396,
+    "h": 223,
+    "aspect": "fixed",
+    "title": "Frame with abbreviated heading"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;margin: 4px 0px 0px; text-align: center;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;«deployment spec»&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;margin: 4px 0px 0px; text-align: center;&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;Example&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:8px;&amp;quot;&amp;gt;execution: execKind&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:8px;&amp;quot;&amp;gt;transaction: Boolean&amp;lt;/p&amp;gt;\" style=\"verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;spacingTop=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"230\" height=\"130\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 230,
+    "h": 130,
+    "aspect": "fixed",
+    "title": "Deployment spec"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;rounded=0;dashed=1;jumpStyle=line;jumpSize=5;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"47.000000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"«deploy»\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.1\" y=\"-1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-27\" y=\"-11\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 47.000000000000455,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;rounded=0;dashed=1;jumpStyle=line;jumpSize=5;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"47.000000000000455\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 47.000000000000455,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;rounded=0;jumpStyle=gap;jumpSize=12;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;font style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;«protocol»&amp;lt;/font&amp;gt;\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.4686\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-16\" y=\"7\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"«executionEnvironment»&amp;lt;br&amp;gt;&amp;lt;u&amp;gt;&amp;lt;b&amp;gt;:Oracle DBMS&amp;lt;/b&amp;gt;&amp;lt;/u&amp;gt;\" style=\"verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;strokeColor=default;container=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"80\" as=\"geometry\"&gt;&lt;mxRectangle x=\"350\" y=\"170\" width=\"130\" height=\"30\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 80,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"«device»&amp;lt;br&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;Personal Computer&amp;lt;/b&amp;gt;\" style=\"verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;container=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"252\" height=\"160\" as=\"geometry\"&gt;&lt;mxRectangle x=\"350\" y=\"170\" width=\"130\" height=\"30\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"«executionEnvironment»&amp;lt;br&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;Web Browser&amp;lt;/b&amp;gt;\" style=\"verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;strokeColor=default;container=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"36.5\" y=\"60\" width=\"179\" height=\"70\" as=\"geometry\"&gt;&lt;mxRectangle x=\"350\" y=\"170\" width=\"130\" height=\"30\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 252,
+    "h": 160,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 110%;&amp;quot;&amp;gt;«executionEnvironment»&amp;lt;br&amp;gt;&amp;lt;b style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;u&amp;gt;:CloudSQL&amp;lt;/u&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;\" style=\"verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;container=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"239\" height=\"164\" as=\"geometry\"&gt;&lt;mxRectangle x=\"350\" y=\"170\" width=\"130\" height=\"30\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"«database»&amp;lt;br style=&amp;quot;border-color: var(--border-color);&amp;quot;&amp;gt;&amp;lt;b&amp;gt;foo_bar&amp;lt;/b&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"36\" y=\"69\" width=\"160\" height=\"56\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=3.555555555555486;\" vertex=\"1\" parent=\"3\"&gt;&lt;mxGeometry x=\"139\" y=\"6\" width=\"15\" height=\"18\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 239,
+    "h": 164,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontStyle=1;align=right;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;allowArrows=0;connectable=0;strokeColor=#000000;strokeWidth=1;fontSize=12;fillColor=default;spacingBottom=0;spacingTop=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"145\" height=\"67\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;font style=&amp;quot;font-size: 12px;&amp;quot;&amp;gt;Example.jar&amp;lt;/font&amp;gt;\" style=\"html=1;align=center;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=1;fontSize=12;spacingTop=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"145\" height=\"67\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=note;jettyWidth=8;jettyHeight=4;fontSize=12;fillColor=default;strokeColor=default;strokeWidth=1;size=5;\" vertex=\"1\" parent=\"3\"&gt;&lt;mxGeometry x=\"1\" width=\"15\" height=\"16\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-22\" y=\"7\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 145,
+    "h": 67,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
