@@ -8,7 +8,7 @@ UML diagrams can help to design and discuss complex software systems. The [Diagr
 
 ## Quickstart
 
-The simplest way to use the custom shape libraries from this repository is to copy one of the links below the paragraph to the clipboard, then visit the website [app.diagrams.net](https://app.diagrams.net), click the "Decide later" button when asked where to store the diagram, and import the library via the menu entry "File > Open Library from > URL...".
+The simplest way to use the custom shape libraries from this repository is to copy one of the links below the paragraph to the clipboard, then visit the website [app.diagrams.net](https://app.diagrams.net), click the "Decide later" button when being asked where to store the diagram, and import the library via the menu entry "File > Open Library from > URL...".
 
 [Use Case Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-UseCaseDiagram.xml) •
 [Component Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-ComponentDiagram.xml) •
