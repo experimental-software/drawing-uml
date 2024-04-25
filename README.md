@@ -4,7 +4,7 @@
 
 ## Context
 
-UML diagrams can help to design and discuss complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a simple and free general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of shape libraries with a customized set of UML shapes.
+UML diagrams are a useful tool for the design and discussion of complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a simple and free general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of shape libraries with a customized set of UML shapes.
 
 ## Quickstart
 
