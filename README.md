@@ -10,10 +10,10 @@ UML diagrams can help to design and discuss complex software systems. The [Diagr
 
 The simplest way to use the custom shape libraries from this repository is to copy one of the links below to the clipboard, then visit the website [app.diagrams.net](https://app.diagrams.net), click the "Decide later" button, and import the library via the menu entry "File > Open Library from > URL...".
 
+[Use Case Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-UseCaseDiagram.xml) •
 [Component Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-ComponentDiagram.xml) •
 [Deployment Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-DeploymentDiagram.xml) • 
-[State Machine Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-StateMachineDiagram.xml) •
-[Use Case Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-UseCaseDiagram.xml)
+[State Machine Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-StateMachineDiagram.xml)
 
 Those steps are shown in the video below:
 
