@@ -4,7 +4,9 @@
 
 ## Context
 
-UML diagrams are a useful tool for the design and discussion of complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a simple and free general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of shape libraries with a customized set of UML shapes.
+The [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) has been created in in the 1990s as unification of the Booch method, the object-modeling technique (OMT), and object-oriented software engineering (OOSE). Later on it was adopted by the Object Management Group (OMG) for standardization. UML digrams can be used as sketch, blueprint, and programming language (see Fowler, p. 2). This project is focused on the sketching use case, as a tool to reduce complexity in the context of understanding, designing, and discussion of complex software system.
+
+The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a simple and free general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of shape libraries with a customized set of UML shapes.
 
 ## Quickstart
 
@@ -72,3 +74,7 @@ The libraries from this repository can be imported via the menu entry "File > Op
 - [UML Specification | omg.org](https://www.omg.org/spec/UML/)
 - [Work with custom shape libraries | drawio.freshdesk.com](https://drawio.freshdesk.com/support/solutions/articles/16000067790-work-with-custom-shape-libraries)
 - [draw.io YouTube channel](https://www.youtube.com/@drawioapp)
+
+**Book**
+
+- [UML Distilled | Martin Fowler](https://www.google.de/books/edition/UML_Distilled/nHZslSr1gJAC)
