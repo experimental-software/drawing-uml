@@ -1,25 +1,25 @@
 # Drawing UML
 
-> custom shape libraries for draw.io
+> custom shape libraries for draw.io that help with the creation of UML diagrams
 
 ## Context
 
-UML diagrams can help to design and discuss complex software systems. The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a simple and free general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of custom shape libraries with a customized set of shapes.
+The [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) has been created in in the 1990s as unification of the [Booch method](https://en.wikipedia.org/wiki/Booch_method), the object-modeling technique (OMT), and object-oriented software engineering (OOSE). Later on it was adopted by the Object Management Group (OMG) for standardization. UML digrams can be used as sketch, blueprint, and programming language (see Fowler, p. 2). This project is focused on the sketching use case, as a tool to manage complexity in the context of reverse engineering, design, and discussion of complex software system.
+
+The [Diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) application (fka. draw.io) is a simple and free general-purpose drawing tool that has a few shapes with which UML diagrams can be painted. This repository contains a collection of shape libraries with a customized set of UML shapes.
 
 ## Quickstart
 
-The simplest way to use the custom shape libraries from this repository is to copy one of the links below to the clipboard, then visit the website [app.diagrams.net](https://app.diagrams.net), click the "Decide later" button, and import the library via the menu entry "File > Open Library from > URL...".
+The simplest way to use the custom shape libraries from this repository is to copy one of the links below this paragraph to the clipboard, then visit the website [app.diagrams.net](https://app.diagrams.net), click the "Decide later" button when being asked where to store the diagram, and import the library via the menu entry "File > Open Library from > URL...".
 
-[Component Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-ComponentDiagram.xml) •
-[Deployment Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-DeploymentDiagram.xml) • 
-[State Machine Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-StateMachineDiagram.xml) •
-[Use Case Diagram](https://github.com/experimental-software/drawing-uml/blob/main/lib/UML-UseCaseDiagram.xml)
-
-Those steps are shown in the video below:
+[Use Case Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-UseCaseDiagram.xml) •
+[Component Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-ComponentDiagram.xml) •
+[Deployment Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-DeploymentDiagram.xml) • 
+[State Machine Diagram](https://raw.githubusercontent.com/experimental-software/drawing-uml/main/lib/UML-StateMachineDiagram.xml)
 
 https://user-images.githubusercontent.com/5235584/223810663-b40a00d9-c53f-432f-8ac1-eaccd9d1d9c2.mp4
 
-## Usage
+## Advanced usage
 
 The Diagrams.net app can also be downloaded and installed as a desktop app: [drawio-desktop](https://github.com/jgraph/drawio-desktop). In this case, it may be convenient to download the custom shapes and import them for the device as described below.
 
@@ -27,7 +27,7 @@ The Diagrams.net app can also be downloaded and installed as a desktop app: [dra
 
 The custom shape libraries can be downloaded by clicking on [this link](https://github.com/experimental-software/drawing-uml/archive/refs/heads/main.zip) or by executing either of these Shell commands in the terminal:
 
-<details open>
+<details>
   <summary>Download with git clone via SSH</summary>
   
   ```bash
@@ -35,7 +35,7 @@ The custom shape libraries can be downloaded by clicking on [this link](https://
   ```
 </details>
 
-<details open>
+<details>
   <summary>Download with git clone via HTTPS</summary>
   
   ```bash
@@ -43,7 +43,7 @@ The custom shape libraries can be downloaded by clicking on [this link](https://
   ```
 </details>
 
-<details open>
+<details>
   <summary> Download ZIP archive via cURL</summary>
   
   ```bash
@@ -72,5 +72,12 @@ The libraries from this repository can be imported via the menu entry "File > Op
 ## References
 
 - [UML Specification | omg.org](https://www.omg.org/spec/UML/)
+
+**Draw.IO**
+
 - [Work with custom shape libraries | drawio.freshdesk.com](https://drawio.freshdesk.com/support/solutions/articles/16000067790-work-with-custom-shape-libraries)
 - [draw.io YouTube channel](https://www.youtube.com/@drawioapp)
+
+**Books on UML**
+
+- [UML Distilled | Martin Fowler](https://www.google.de/books/edition/UML_Distilled/nHZslSr1gJAC)
