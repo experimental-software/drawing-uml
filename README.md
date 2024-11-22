@@ -44,7 +44,7 @@ The custom shape libraries can be downloaded by clicking on [this link](https://
 </details>
 
 <details>
-  <summary> Download ZIP archive via cURL</summary>
+  <summary> Download ZIP archive with curl</summary>
   
   ```bash
   curl https://codeload.github.com/experimental-software/drawing-uml/zip/refs/heads/main \
